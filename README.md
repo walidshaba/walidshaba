@@ -6,8 +6,8 @@
 <!-- <iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p> -->
 
 <div align="center">
-   <a  href = "[https://youtu.be/ruawVE5GwM8](https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8)">
-<img align = "center" src = "https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" />
+   <a  href = "https://youtu.be/ruawVE5GwM8">
+<img align = "center" src = "https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif" />
    </a>
 </div>
 
