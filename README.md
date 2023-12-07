@@ -1,6 +1,6 @@
 <h1 align="center"> Join Me on My Code Journey👨‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Musa+%F0%9F%91%8B;👨‍💻+++;Software+Engineer;Frontend Developer;Freelancer" alt="Headline" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Musa Shaba+%F0%9F%91%8B;👨‍💻+++Frontend+Developer;Software+Engineer;Problem+Solver;Freelancer" alt="Top Text" />
 </div>
 
 <!-- <iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p> -->
