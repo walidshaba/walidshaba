@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="php" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40" height="40"/>
   </a>
 </p>
 
