@@ -1,6 +1,6 @@
 <h1 align="center"> Join Me on My Code Journey👨‍💻 </h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=0000FF&random=false&width=435&lines=Hi+There+i'm+Musa+Shaba;Frontend+Dev+-%3E+Full+stack+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=0000FF&random=false&width=435&lines=Hi+There+i'm+Musa+Shaba;Frontend+Dev+-%3E+Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 
