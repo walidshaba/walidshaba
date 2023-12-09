@@ -68,8 +68,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Font_Awesome_5_brands_php.svg/1279px-Font_Awesome_5_brands_php.svg.png" alt="php" width="40" height="40"/>
+    <img src="https://icons-for-free.com/iconfiles/png/512/php+plain-1324760555060951567.png" alt="php" width="40" height="40"/>
 <!--      https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png -->
+<!--      https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Font_Awesome_5_brands_php.svg/1279px-Font_Awesome_5_brands_php.svg.png -->
   </a>
 </p>
 
