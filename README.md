@@ -28,7 +28,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently building a [**Time Table Auto Generator Website **]([https://github.com/walidshaba/Time-Table-Generator/])
+- 🔭 I’m currently building a [Time Table Auto Generator Website](https://github.com/walidshaba/Time-Table-Generator/)
 
 - 💬 Ask me about **Software Engineering Student**
 
